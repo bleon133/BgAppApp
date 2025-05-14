@@ -1,11 +1,13 @@
 package com.BgApp.Android.ui.theme
 
 import androidx.compose.ui.graphics.Color
+//Colores de tema claro
+val bgapp_theme_light_primary = Color(0xFF0B495E)
+val bgapp_theme_light_onPrimary = Color(0xFF1581A4)
+val bgapp_theme_light_primaryContainer = Color(0xFFFFFFFF)
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+//Colores de tema oscuro
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val bgapp_theme_dark_primary = Color(0xFF0B495E)
+val bgapp_theme_dark_onPrimary = Color(0xFF1581A4)
+val bgapp_theme_dark_primaryContainer = Color(0xFF051D25)
